@@ -35,8 +35,7 @@ export default function About(){
                                     <h1 className="font-bold text-[#e63337] text-xl">Nayan</h1>
                                     <h1 className="font-bold text-[#e63337] text-lg">Frontend Developer</h1>
                                     <h1 className="font-bold text-[#e63337] text-md">I just love webD</h1>
-                                </div>
-                                
+                                </div>   
                             </div>
                         </div>
                     </div>
